@@ -2,9 +2,9 @@ package hw8mst;
 
 /**
  *
- * @author Adam Whitley Nov 16 2014 CSCI 333 HW 10 Edge class, provided to
- * students.
+ *
  */
+
 public class Edge {
 
     // ----- Defined Public Constants -----
