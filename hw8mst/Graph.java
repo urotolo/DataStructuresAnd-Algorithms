@@ -10,7 +10,7 @@ import java.util.PriorityQueue;
 
 /**
  *
- * @author awhitley && Ulisse
+ * 
  */
 
 public class Graph {
