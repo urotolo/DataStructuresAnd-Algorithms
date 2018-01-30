@@ -2,8 +2,7 @@ package hw8mst;
 
 /**
  *
- * @author Adam Whitley Nov 16 2014 CSCI 333 HW 10 Vertex class, provided to
- * students.
+ * 
  */
 public class Vertex implements Comparable<Vertex>, java.util.Comparator<Vertex> {
 
